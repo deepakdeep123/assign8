@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bodybg{background-color:#eeeeee;}
+.div1{float:left; width:30%}
+.div2{float:left; width:30%; background-color:#234465; color:#fff; padding-left:20px;}
+.whitelink{color:#fff;}
